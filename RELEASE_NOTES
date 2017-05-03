@@ -6,6 +6,9 @@
 #        
 #--------------------------------------------------------------
 
+R0.0.0-0.2.0: 2017-05-03 J. Vasquez
+    * Update ADCore to R2.6 and Asyn to R4.31
+
 R0.0.0-0.1.0: 2017-02-01 B. Hill
     * Minimal changes to build with SLAC git workflow
 
