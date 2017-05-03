@@ -1,0 +1,11 @@
+#==============================================================
+#
+#  Name: RELEASE_NOTES
+#
+#  Rem: Release notes for the TRCore epics module 
+#        
+#--------------------------------------------------------------
+
+R0.0.0-0.1.0: 2017-02-01 B. Hill
+    * Minimal changes to build with SLAC git workflow
+
